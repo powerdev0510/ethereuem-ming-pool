@@ -34,8 +34,11 @@ First install  [go-ethereum](https://github.com/ethereum/go-ethereum/wiki/Instal
 Clone & compile:
 
     git config --global http.https://gopkg.in.followRedirects true
-    git clone https://github.com/powerdev0510/ethereum-mining-pool.git
-    cd ethereum-mining-pool
+    
+    Then Clone the source code from github.
+    Extract the file and then go to the PATH.
+    Then Command Line like this:
+    
     make
 
 Install redis-server.
