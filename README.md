@@ -35,9 +35,9 @@ Clone & compile:
 
     git config --global http.https://gopkg.in.followRedirects true
     
-    Then Clone the source code from github.
-    Extract the file and then go to the PATH.
-    Then Command Line like this:
+Then Clone the source code from github.
+Extract the file and then go to the PATH.
+Then Command Line like this:
     
     make
 
