@@ -12,6 +12,11 @@
 * JSON-API for stats
 
 
+#### Proxies
+
+* [Ether-Proxy](https://github.com/powerdev0510/ether-proxy) HTTP proxy with web interface
+* [Stratum Proxy](https://github.com/powerdev0510/eth-proxy) for Ethereum
+
 ### Building on Linux
 
 Dependencies:
